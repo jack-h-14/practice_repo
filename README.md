@@ -11,3 +11,7 @@ https://www.sslauthority.com/the-difference-between-sha-1-sha-2-and-sha-256-hash
 
 ## __Why I put this link: __
 cybersecurity and cryptography is becoming more and more important as the web holds most of our personal data. One of the most common cryptography used by companies is SHA family, a secure hash algorithm. SHA-1 was a popular choice for a while until it became obsolete and imporvement have been made over the years by increasing the size. Most company seem to lack proper protection for data they manage such as username, password which would lead to phone number, bank account, SSN, and much more. Therefore I believe cybersecurity is an interesing topic to look into. 
+
+## link by rpr288 (RiPRR)
+
+This is a dope article... who knew things could be so vulerable!
